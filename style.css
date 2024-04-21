@@ -1,0 +1,44 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: rgba(0, 0, 0, 0.705);
+}
+
+.topo {
+  background-color: rgb(255, 255, 255);
+  /* display: flex; */
+}
+
+/* .lista-links{
+    list-style: none;
+} */
+
+.lista-links a {
+  list-style: none;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.705);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.gratuito-h2 {
+  font-weight: 400;
+  font-size: 35px;
+}
+.free-courses {
+  font-weight: 600;
+  color: darkcyan;
+}
+
+.gratuito-h3 {
+  font-size: 23px;
+  font-weight: 700;
+  color: rgb(41 115 161);
+}
+
+.gratuito-item-lista,
+li {
+  font-size: 19px;
+  text-decoration: none;
+  color: rgb(92, 92, 92);
+}
